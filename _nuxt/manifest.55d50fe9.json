@@ -1,0 +1,10 @@
+{
+  "name": "mapa-wiedzy",
+  "short_name": "mapa-wiedzy",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "pl"
+}
